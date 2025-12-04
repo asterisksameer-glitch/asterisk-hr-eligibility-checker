@@ -1,0 +1,5 @@
+{
+  "name": "Asterisk HR Eligibility Checker",
+  "description": "A mobile-responsive eligibility wizard for Asterisk Human Resources to screen candidates for Singapore jobs.",
+  "requestFramePermissions": []
+}
